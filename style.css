@@ -1,0 +1,119 @@
+body{
+    padding: 0;
+    margin:0;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+
+.banner-container{
+    margin-top: -20px;
+    background-image: url(./images/donation0.jpg);
+    height: 670px;
+    background-repeat: no-repeat;
+   
+    background-position: top center;
+    background-size: 1350px;
+    text-align: center;
+    
+}
+
+
+
+.banner-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
+}
+
+.banner-text h1{
+    color: white;
+    font-size: 65px;
+    margin: 0;
+}
+.banner-text p{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}
+.banner-text button{
+    
+    padding: 16px 12px;
+    font-size: 20px;
+    font-weight: 600px;
+    border-radius: 5px;
+    border: 0;
+    background-color: rgba(255, 89, 89, 1);
+    color: white;
+}
+
+.money-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.money-container{
+    text-align: center;
+    margin-top: 130px;
+}
+
+.money-container h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.money-container p{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.money-title{
+    border: 1px solid black;
+    width: 135px;
+    height: 123px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 50px 22px 60px 22px;
+}
+
+.money-container input{
+    border: none;
+}
+
+.wrapper{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 850px;
+    background: #fff; 
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+    margin:0 auto;
+}
+
+.wrapper .input-data{
+    
+    height: 40px;
+    width: 100%;
+    position: relative;
+}
+
+.wrapper .input-data input{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid silver;
+    outline: none;
+}
+
+
+
+
