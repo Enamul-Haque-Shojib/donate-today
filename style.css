@@ -63,16 +63,16 @@ font-family: 'Roboto', sans-serif;
     font-weight: 700;
 }
 
-.money-container{
+.header-title{
     text-align: center;
     margin-top: 130px;
 }
 
-.money-container h1{
+.header-title h1{
     font-size: 45px;
     font-weight: 700;
 }
-.money-container p{
+.header-title p{
     font-size: 18px;
     font-weight: 400;
 }
@@ -100,7 +100,7 @@ font-family: 'Roboto', sans-serif;
     rgba(255, 238, 238, 1);
 }
 
-.money-container input{
+.header-title input{
     border: none;
 }
 
