@@ -226,6 +226,7 @@ font-family: 'Roboto', sans-serif;
     height: 43px;
     border-radius: 5px 0 0 5px;
     border: 1px solid gray;
+    padding-left: 10px;
 }
 .update-btn button{
     width: 157px;
